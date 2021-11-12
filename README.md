@@ -34,13 +34,13 @@ Currently I work as a **Data Engineer** at *BRQ Digital Solutions*. I'm experien
 * Python programming
 
 
-- 🌱 I’m currently learning java. I want to work with java in Hadoop frameworkQuero aprender a trabalhar com java utilizando o framework Hadoop
+- 🌱 I’m currently learning java. I want to work with java in Hadoop framework
 - 📫 How to reach me::
 - - **E-mail**: gabrielstarosky@gmail.com
 - - **Linkedin**: https://www.linkedin.com/in/gabriel-hartleben-starosky-73aa7611b/
 
 
-**Do you want to know my portfolio? My publish portfolios are published here on Github:**
+**Do you want to know my portfolio? My portfolios are published here on Github:**
 - Airbnb Rio de Janeiro data analysis (**in progress - portuguese**): https://bit.ly/2UYmwjt
 
 <!--
