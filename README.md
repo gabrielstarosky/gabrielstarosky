@@ -1,6 +1,6 @@
 ### Olá! Eu me chamo Gabriel Starosky
 
-Atualmente eu sou **Engenheiro de Dados Pleno** na *BRQ Digital Solutions*. Tenho experiência com:
+Atualmente eu sou **Analista de Tecnologia e Operações Sênior** no banco *Santander*. Tenho experiência com:
 
 * Pipelines de dados utilizando Apache Airflow
 * Visualização de dados com Jupyter Notebook e Metabase
@@ -9,13 +9,14 @@ Atualmente eu sou **Engenheiro de Dados Pleno** na *BRQ Digital Solutions*. Tenh
 * Shell script
 * Programação em Python
 * Apache Spark com a biblioteca Pyspark
+* Uso de git
 
 
 - 🌱 Estou atualmente aprendendo java. Quero aprender a trabalhar com java utilizando o framework Hadoop
 - 📫 Como chegar até mim:
 - - **E-mail**: gabrielstarosky@gmail.com
 - - **Linkedin**: https://www.linkedin.com/in/gabriel-hartleben-starosky-73aa7611b/
-- :bulb: Tenho como práticas em meus projetos, o desenvolvimento orientado a objetos, a adoção dos princípios SOLID e a escrita de código limpo. Isso me ajuda a ser mais produtivo e torna meus códigos fáceis de ler, de dar manutenção e de testar.
+- :bulb: Tenho como práticas em meus projetos, o desenvolvimento orientado a objetos, a adoção dos princípios SOLID e a escrita de código limpo. Isso me ajuda a ser mais produtivo e torna meus códigos fáceis de ler, de dar manutenção e de testar. Além disso, considero a reusabilidade do código produzido um aspecto fundamental no desenvolvimento do software.
 
 **Quer conhecer meu portfolio? Aqui estão meus projetos publicados no Github:**
 - Análise de dados do Airbnb da cidade do Rio de Janeiro (**em andamento**): https://bit.ly/2UYmwjt
@@ -40,7 +41,7 @@ Currently I work as a **Data Engineer** at *BRQ Digital Solutions*. I'm experien
 - 📫 How to reach me::
 - - **E-mail**: gabrielstarosky@gmail.com
 - - **Linkedin**: https://www.linkedin.com/in/gabriel-hartleben-starosky-73aa7611b/
-- :bulb: My projects' practices are the object orientation development, the SOLID principles adoption and clean code writing. It helps me to be more productive and to make my code easier to read, to maintain and to test.
+- :bulb: My projects' practices are the object orientation development, the SOLID principles adoption and clean code writing. It helps me to be more productive and to make my code easier to read, maintain and test. For me, making reusable code is a fundamental aspect in software development.
 
 
 **Do you want to know my portfolio? My portfolios are published here on Github:**
