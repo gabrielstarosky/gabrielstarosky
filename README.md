@@ -26,7 +26,7 @@ Atualmente eu sou **Analista de Tecnologia e Operações Sênior** no banco *San
 
 ### Hello! I'm Gabriel Starosky
 
-Currently I work as a **Data Engineer** at *BRQ Digital Solutions*. I'm experienced with:
+Currently I work as a **Senior Technology and Operations Analyst** at *Santander* bank. I'm experienced with:
 
 * Data pipelines with Apache Airflow
 * Data visualization with Jupyter Notebook and Metabase
@@ -35,6 +35,7 @@ Currently I work as a **Data Engineer** at *BRQ Digital Solutions*. I'm experien
 * Shell script
 * Python programming
 * Apache Spark with Pyspark library
+* Git
 
 
 - 🌱 I’m currently learning java. I want to work with java in Hadoop framework
