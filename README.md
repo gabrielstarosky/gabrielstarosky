@@ -12,7 +12,7 @@ Atualmente eu sou **Especialista de Tecnologia e Operações** no banco *Santand
 * Uso de git
 
 
-- 🌱 Estou atualmente aprendendo scala. Quero aprender a trabalhar com java utilizando o framework Hadoop
+- 🌱 Estou atualmente aprendendo scala. 
 - 📫 Como chegar até mim:
 - - **E-mail**: gabrielstarosky@gmail.com
 - - **Linkedin**: https://www.linkedin.com/in/gabriel-hartleben-starosky-73aa7611b/
