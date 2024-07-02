@@ -1,6 +1,6 @@
 ### Olá! Eu me chamo Gabriel Starosky
 
-Atualmente eu sou **Analista de Tecnologia e Operações Sênior** no banco *Santander*. Tenho experiência com:
+Atualmente eu sou **Especialista de Tecnologia e Operações** no banco *Santander*. Tenho experiência com:
 
 * Pipelines de dados utilizando Apache Airflow
 * Visualização de dados com Jupyter Notebook e Metabase
@@ -12,7 +12,7 @@ Atualmente eu sou **Analista de Tecnologia e Operações Sênior** no banco *San
 * Uso de git
 
 
-- 🌱 Estou atualmente aprendendo java. Quero aprender a trabalhar com java utilizando o framework Hadoop
+- 🌱 Estou atualmente aprendendo scala. Quero aprender a trabalhar com java utilizando o framework Hadoop
 - 📫 Como chegar até mim:
 - - **E-mail**: gabrielstarosky@gmail.com
 - - **Linkedin**: https://www.linkedin.com/in/gabriel-hartleben-starosky-73aa7611b/
