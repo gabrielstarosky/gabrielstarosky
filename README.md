@@ -21,6 +21,7 @@ Atualmente eu sou **Especialista de Tecnologia e Operações** na empresa *F1rst
 
 **Quer conhecer meu portfolio? Aqui estão meus projetos publicados no Github:**
 - Análise de dados do Airbnb da cidade do Rio de Janeiro (**em andamento**): https://bit.ly/2UYmwjt
+- Sistema de matrículas usando drools (**em andamento**): http://bit.ly/4lGqh4t
 
 
 ------
@@ -49,6 +50,7 @@ Currently I work as a **Technology and Operations Specialist** at *F1rst*. I'm e
 
 **Do you want to know my portfolio? My portfolios are published here on Github:**
 - Airbnb Rio de Janeiro data analysis (**in progress - portuguese**): https://bit.ly/2UYmwjt
+- Drools business rules motor enrollment system (**in progress - portuguese**): http://bit.ly/4lGqh4t
 
 <!--
 **gabrielstarosky/gabrielstarosky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
