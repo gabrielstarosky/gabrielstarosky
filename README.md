@@ -27,7 +27,7 @@ Atualmente eu sou **Especialista de Tecnologia e Operações** na empresa *F1rst
 
 ### Hello! I'm Gabriel Starosky
 
-Currently I work as a **Technology and Operations Specialist** at *F1rst* bank. I'm experienced with:
+Currently I work as a **Technology and Operations Specialist** at *F1rst*. I'm experienced with:
 
 * Data pipelines with Apache Airflow
 * Data visualization with Jupyter Notebook and Metabase
