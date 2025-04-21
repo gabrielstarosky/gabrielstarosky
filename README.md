@@ -1,56 +1,92 @@
-### Olá! Eu me chamo Gabriel Starosky
+# 👋 Olá, eu sou Gabriel Starosky
 
-Atualmente eu sou **Especialista de Tecnologia e Operações** na empresa *F1rst*. Tenho experiência com:
+Especialista em Tecnologia e Operações na [F1rst](https://www.f1rst.com.br/), apaixonado por dados, automação e boas práticas de desenvolvimento. Tenho experiência em projetos de engenharia de dados, análise e visualização, sempre buscando código limpo, reutilizável e de fácil manutenção.
 
-* Pipelines de dados utilizando Apache Airflow
-* Visualização de dados com Jupyter Notebook e Metabase
-* Consultas simples e complexas em SGDBs SQL Server, MySQL e Postgres
-* Utilização de APIs
-* Shell script
-* Programação em Python
-* Apache Spark com a biblioteca Pyspark
-* Uso de git
-* Uso de databricks
+## 🚀 Tecnologias & Ferramentas
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=flat)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell-121011?style=flat&logo=gnu-bash&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 
-- 🌱 Estou atualmente aprendendo Java. 
-- 📫 Como chegar até mim:
-- - **E-mail**: gabrielstarosky@gmail.com
-- - **Linkedin**: https://www.linkedin.com/in/gabriel-hartleben-starosky-73aa7611b/
-- :bulb: Tenho como práticas em meus projetos, o desenvolvimento orientado a objetos, a adoção dos princípios SOLID e a escrita de código limpo. Isso me ajuda a ser mais produtivo e torna meus códigos fáceis de ler, de dar manutenção e de testar. Além disso, considero a reusabilidade do código produzido um aspecto fundamental no desenvolvimento do software.
+## 💼 Experiência
 
-**Quer conhecer meu portfolio? Aqui estão meus projetos publicados no Github:**
-- Análise de dados do Airbnb da cidade do Rio de Janeiro (**em andamento**): https://bit.ly/2UYmwjt
-- Sistema de matrículas usando drools (**em andamento**): http://bit.ly/4lGqh4t
+- **Pipelines de dados** com Apache Airflow
+- **Visualização de dados** com Jupyter Notebook e Metabase
+- **Consultas SQL** (SQL Server, MySQL, Postgres)
+- **APIs e automação** com Python e Shell Script
+- **Processamento distribuído** com Apache Spark (PySpark)
+- **Versionamento** com Git e Databricks
 
+## 🛠️ Práticas
 
-------
+💡 Desenvolvimento orientado a objetos, princípios SOLID e código limpo são pilares dos meus projetos. Busco sempre produtividade, legibilidade, testabilidade e reusabilidade.
 
-### Hello! I'm Gabriel Starosky
+## 🌱 Atualmente aprendendo
 
-Currently I work as a **Technology and Operations Specialist** at *F1rst*. I'm experienced with:
+- Java
 
-* Data pipelines with Apache Airflow
-* Data visualization with Jupyter Notebook and Metabase
-* Simple and complex queries with SQL Server, MySQL and Postgres DBMSs 
-* APIs
-* Shell script
-* Python programming
-* Apache Spark with Pyspark library
-* Git
-* Databricks
+## 📫 Contato
 
+[![Email](https://img.shields.io/badge/E--mail-gabrielstarosky@gmail.com-red?style=flat&logo=gmail)](mailto:gabrielstarosky@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gabriel-hartleben-starosky-73aa7611b/)
 
-- 🌱 I’m currently learning java.
-- 📫 How to reach me::
-- - **E-mail**: gabrielstarosky@gmail.com
-- - **Linkedin**: https://www.linkedin.com/in/gabriel-hartleben-starosky-73aa7611b/
-- :bulb: My projects' practices are the object orientation development, the SOLID principles adoption and clean code writing. It helps me to be more productive and to make my code easier to read, maintain and test. For me, making reusable code is a fundamental aspect in software development.
+## 📂 Portfólio
+
+| Projeto | Descrição | Status | Link |
+|---------|-----------|--------|------|
+| **Análise de dados do Airbnb RJ** | Análise exploratória de dados do Airbnb no Rio de Janeiro | Em andamento | [Ver projeto](https://bit.ly/2UYmwjt) |
+| **Sistema de matrículas com Drools** | Motor de regras de negócio para matrículas usando Drools | Em andamento | [Ver projeto](http://bit.ly/4lGqh4t) |
 
 
-**Do you want to know my portfolio? My portfolios are published here on Github:**
-- Airbnb Rio de Janeiro data analysis (**in progress - portuguese**): https://bit.ly/2UYmwjt
-- Drools business rules motor enrollment system (**in progress - portuguese**): http://bit.ly/4lGqh4t
+---
+
+# 👋 Hello, I'm Gabriel Starosky
+
+Technology and Operations Specialist at [F1rst](https://www.f1rst.com.br/), passionate about data, automation, and software best practices. Experienced in data engineering, analysis, and visualization, always aiming for clean, reusable, and maintainable code.
+
+## 🚀 Technologies & Tools
+
+*See badges above*
+
+## 💼 Experience
+
+- Data pipelines with Apache Airflow
+- Data visualization with Jupyter Notebook and Metabase
+- Simple and complex SQL queries (SQL Server, MySQL, Postgres)
+- APIs and automation with Python and Shell Script
+- Distributed processing with Apache Spark (PySpark)
+- Version control with Git and Databricks
+
+## 🛠️ Practices
+
+💡 Object-oriented development, SOLID principles, and clean code are the pillars of my projects. I always seek productivity, readability, testability, and reusability.
+
+## 🌱 Currently learning
+
+- Java
+
+## 📫 Contact
+
+[![Email](https://img.shields.io/badge/E--mail-gabrielstarosky@gmail.com-red?style=flat&logo=gmail)](mailto:gabrielstarosky@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gabriel-hartleben-starosky-73aa7611b/)
+
+## 📂 Portfolio
+
+| Project | Description | Status | Link |
+|---------|-------------|--------|------|
+| **Airbnb Rio de Janeiro data analysis** | Exploratory data analysis of Airbnb in Rio de Janeiro | In progress | [See project](https://bit.ly/2UYmwjt) |
+| **Drools business rules motor enrollment system** | Business rules engine for enrollments using Drools | In progress | [See project](http://bit.ly/4lGqh4t) |
+
+---
+
+_Always updating!_ 🚧
 
 <!--
 **gabrielstarosky/gabrielstarosky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
