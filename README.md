@@ -1,6 +1,6 @@
 ### Olá! Eu me chamo Gabriel Starosky
 
-Atualmente eu sou **Especialista de Tecnologia e Operações** no banco *Santander*. Tenho experiência com:
+Atualmente eu sou **Especialista de Tecnologia e Operações** na empresa *F1rst*. Tenho experiência com:
 
 * Pipelines de dados utilizando Apache Airflow
 * Visualização de dados com Jupyter Notebook e Metabase
@@ -10,9 +10,10 @@ Atualmente eu sou **Especialista de Tecnologia e Operações** no banco *Santand
 * Programação em Python
 * Apache Spark com a biblioteca Pyspark
 * Uso de git
+* Uso de databricks
 
 
-- 🌱 Estou atualmente aprendendo scala. 
+- 🌱 Estou atualmente aprendendo Java. 
 - 📫 Como chegar até mim:
 - - **E-mail**: gabrielstarosky@gmail.com
 - - **Linkedin**: https://www.linkedin.com/in/gabriel-hartleben-starosky-73aa7611b/
@@ -26,7 +27,7 @@ Atualmente eu sou **Especialista de Tecnologia e Operações** no banco *Santand
 
 ### Hello! I'm Gabriel Starosky
 
-Currently I work as a **Senior Technology and Operations Analyst** at *Santander* bank. I'm experienced with:
+Currently I work as a **Technology and Operations Specialist** at *F1rst* bank. I'm experienced with:
 
 * Data pipelines with Apache Airflow
 * Data visualization with Jupyter Notebook and Metabase
@@ -36,9 +37,10 @@ Currently I work as a **Senior Technology and Operations Analyst** at *Santander
 * Python programming
 * Apache Spark with Pyspark library
 * Git
+* Databricks
 
 
-- 🌱 I’m currently learning java. I want to work with java in Hadoop framework
+- 🌱 I’m currently learning java.
 - 📫 How to reach me::
 - - **E-mail**: gabrielstarosky@gmail.com
 - - **Linkedin**: https://www.linkedin.com/in/gabriel-hartleben-starosky-73aa7611b/
