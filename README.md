@@ -41,6 +41,7 @@ Especialista em Tecnologia e Operações na [F1rst](https://www.f1rst.com.br/), 
 
 | Projeto | Descrição | Status | Link |
 |---------|-----------|--------|------|
+| **pyspark_mock** | Biblioteca para simular DataFrames do PySpark em testes unitários de Python | Em andamento | [Ver projeto](https://github.com/gabrielstarosky/pyspark_mock) |
 | **Análise de dados do Airbnb RJ** | Análise exploratória de dados do Airbnb no Rio de Janeiro | Em andamento | [Ver projeto](https://bit.ly/2UYmwjt) |
 | **Sistema de matrículas com Drools** | Motor de regras de negócio para matrículas usando Drools | Em andamento | [Ver projeto](http://bit.ly/4lGqh4t) |
 
@@ -81,6 +82,7 @@ Technology and Operations Specialist at [F1rst](https://www.f1rst.com.br/), pass
 
 | Project | Description | Status | Link |
 |---------|-------------|--------|------|
+| **pyspark_mock** | Library to mock PySpark DataFrames for Python unit tests | In progress | [See project](https://github.com/gabrielstarosky/pyspark_mock) |
 | **Airbnb Rio de Janeiro data analysis** | Exploratory data analysis of Airbnb in Rio de Janeiro | In progress | [See project](https://bit.ly/2UYmwjt) |
 | **Drools business rules motor enrollment system** | Business rules engine for enrollments using Drools | In progress | [See project](http://bit.ly/4lGqh4t) |
 
